@@ -1,5 +1,5 @@
 body {
-  color: green;
+  color: red;
 }
 
 .large-hero{
@@ -7,3 +7,4 @@ body {
     color: $mainBlue;
   }
 }
+
